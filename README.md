@@ -1,4 +1,4 @@
-# Masters_Repository_ST4H_PSL
+# Master_Repository_ST4H_PSL
 
 👤 **Achille RAVIEZ**,
 MD, MSc | Public Health Resident | AI & Digital Health [LinkedIn](https://www.linkedin.com/in/achille-raviez-819a5328b/) 
